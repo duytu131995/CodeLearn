@@ -1,4 +1,3 @@
-//chua nop
 function compareSumOfDigits(input){
     allNumber = [];
     for(var i = 0; i <= input.length; i++){
