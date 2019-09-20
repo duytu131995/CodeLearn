@@ -14,10 +14,8 @@ function removeDuplicateCharacters(str){
         }
       }
       if( number === 1 ){
-        //for( var g = 0; g < arr.length; g++ ){
           value[g] = arr[j];
           g++;
-        //}
       }
     }
     return value.join('');
