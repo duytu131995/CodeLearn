@@ -1,4 +1,3 @@
-//chua nop
 function boomerang(arr){
     sum = 0;
     for( var i = 0; i < arr.length; i++ ){
