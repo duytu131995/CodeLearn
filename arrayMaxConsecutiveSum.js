@@ -1,4 +1,3 @@
-//chua nop
 function arrayMaxConsecutiveSum(inputArray, k){
     var sum = [];
     for( var i = 0; i <= inputArray.length - k; i++ ){
