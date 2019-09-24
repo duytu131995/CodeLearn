@@ -1,4 +1,3 @@
-//chua nop
 function removeDuplicateCharacters(str){
     var arr = [];
     var value = [];
