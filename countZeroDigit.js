@@ -1,4 +1,3 @@
-//chua nop
 function countZeroDigit(a, b){
     var arr = [];
     var limit = 0;
